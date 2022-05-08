@@ -22,7 +22,7 @@ This section is developed by <a href="https://www.cmpe.boun.edu.tr/~ozlem.salehi
 
 ## Making Contributions
 
-If you are interested, you are welcome to contribute to Silver. Please read QWorld's rules for developing projects.
+If you are interested, you are welcome to contribute to Boron. Please read QWorld's rules for developing projects.
 
 http://qworld.lu.lv/wp-content/uploads/2020/09/Rules-for-the-projects-developed-under-the-QEducation-2020-Sep-22.pdf
 
